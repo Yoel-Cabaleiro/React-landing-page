@@ -1,0 +1,12 @@
+#jumboCard{
+    margin-top: 80px;
+}
+
+#card{
+    width: 318px;
+   
+}
+#card > img {
+    height: 200px;
+    
+}
