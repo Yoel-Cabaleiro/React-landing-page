@@ -3,8 +3,8 @@ import { createRoot } from 'react-dom/client';
 import "bootstrap"
 import 'bootstrap/dist/css/bootstrap.min.css';
 import "./styles.css"
-import Navbar from './navbar';
-import Jumbotron from './jumbotron';
+import Navbar from './navbar.jsx';
+import Jumbotron from './jumbotron.jsx';
 import Card from './card';
 import Footer from './footer';
 
