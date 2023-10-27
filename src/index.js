@@ -5,8 +5,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import "./styles.css"
 import Navbar from './navbar.jsx';
 import Jumbotron from './jumbotron.jsx';
-import Card from './card';
-import Footer from './footer';
+import Card from './card.jsx';
+import Footer from './footer.jsx';
 
 const root = createRoot(document.getElementById('root'));
 root.render(
